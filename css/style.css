@@ -4,9 +4,9 @@
   flex-wrap: wrap;
 }
 
-.subDivs {
-  background-color: #000;
-  flex-basis: calc(100% / 16);
-  flex-grow: 1;
-  flex-shrink: 1;
+#accessories {
+  display: flex;
+  height: 30vh;
+  justify-content: center;
+  align-items: center;
 }
